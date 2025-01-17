@@ -16,7 +16,7 @@ Pagina vetrina della concessionaria, e possibilità di ricerca per marche e/o mo
 La home sarà composta da:
 - **Navbar**
 - **Filtri**
-- **Macchine**: quindi da utilizzare il GET per prendere i dati delle macchine migliori 
+- **Macchine**: quindi da utilizzare il GET per prendere i dati delle macchine migliori
 
 ### 2. BASIC FILTERS | LOGIC 
 All'invio del filtraggio l'utente verrà riportato alla pagina dei filtraggi.
@@ -48,7 +48,7 @@ Filtri di base per la home:
 - Numero porte
 
 ### 3. Click su una macchina | DESIGN
-Paginazione per le macchine: dovrà mostrare quello che deve far vedere un appartamento. L'appartamento verrà passato tramite props da home così da non dover fare un altro fetch e un bottone per rendirizzare l'utente alla casella di posta dove potrà contattare la concessionaria.
+Paginazione per le macchine: dovrà mostrare i dettagli e gli optional della macchina selezionata. I dettagli della macchina verrà passato tramite props da home così da non dover fare un altro fetch e verrà inserito un bottone per rendirizzare l'utente alla casella di posta dove potrà contattare la concessionaria.
 
 ---
 
