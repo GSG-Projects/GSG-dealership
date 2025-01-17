@@ -4,9 +4,10 @@ Questa repository contiene documentazioni, codice sorgente e reports del progett
 
 Le tecnologie utilizzate sono:
 
-Frontend: Next.js, tailwindCSS
-Backend: Spring, MySQL
-API: RESTful
-Cronologia Task Completati
-//Data
-✅ RT: 
+- **Frontend**: vue.js, tailwindCSS
+- **Backend**: Laravel, MySQL
+- **API**: RESTful
+  
+## Cronologia Task Completati
+### //Data
+- ✅ RT: 
