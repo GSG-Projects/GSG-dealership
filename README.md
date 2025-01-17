@@ -5,7 +5,7 @@ Questa repository contiene documentazioni, codice sorgente e reports del progett
 Le tecnologie utilizzate sono:
 
 - **Frontend**: Next.js, tailwindCSS
-- **Backend**: Spring, MySQL
+- **Backend**: Laravel, MySQL
 - **API**: RESTful
   
 ## Cronologia Task Completati
